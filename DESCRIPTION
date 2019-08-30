@@ -1,0 +1,13 @@
+Package: UtilityFunctions
+Type: Package
+Title: Set of my helper functions
+Depends: ggplot2
+Imports: plyr, reshape, readxl, devtools, qqplotr
+Suggests: testthat
+Version: 1.5
+Date: 2019-08-15
+Author: Matija Novak
+Maintainer: Matija Novak <matnovak@foi.hr>
+Description: Functions to create freqency table based on various input data,data frame manipulation functions, global helper function and analysisPerYear functions.
+License: GPL-3 or later
+RoxygenNote: 6.0.1
